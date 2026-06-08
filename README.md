@@ -3,7 +3,7 @@
 The [ECMME](https://github.com/izzilab/ecmme/) (ECM Molecular Evolution) browser is a user-friendly, open-access web resource that enables interactive visualization of per-residue evolutionary selection pressures across 272 core Matrisome proteins in humans. Here, we deposit the preparation pipeline code, used to produce the results presented by ECMME.
 
 [![Badge](https://img.shields.io/badge/ECMME-@GitHub-green)](https://github.com/izzilab/ecmme/)
-[![Badge](https://img.shields.io/badge/Preprint-@bioRxiv-red)](https://doi.org/XXX)
+[![Badge](https://img.shields.io/badge/Preprint-@bioRxiv-red)](https://doi.org/BIORXIV/2026/730821)
 [![Badge](https://img.shields.io/badge/ECMME_ShinyApp-@PositCloud-blue)](https://izzilab-ecmme.share.connect.posit.cloud/)
 
 ## Pipeline overview
