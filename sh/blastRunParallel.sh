@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Run reciprocal BLASTP against reference protein and sort by bit score.
+# Run BLASTP against reference protein and sort by bit score.
 # Then sort by "bit score" (12th column, --key 12). Output format info:
 # http://www.metagenomics.wiki/tools/blast/blastn-output-format-6
 
